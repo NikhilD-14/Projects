@@ -1,0 +1,201 @@
+Weight (kg),Height (cm),BMI,Calories (kcal),Exercise Type,Age,Gender,Ideal Weight (kg),Diet Goal,Calories
+82,170,28.4,58,Pilates,36,Female,61.7,Weight Loss,1611
+106,153,45.3,311,Walking,71,Male,50.9,Weight Loss,1477
+112,146,52.5,182,Yoga,73,Male,44.6,Weight Loss,1772
+76,197,19.6,369,Running,23,Female,86,Weight Gain,2922
+60,173,20,196,Weight Training,73,Female,64.4,Weight Gain,3398
+62,178,19.6,261,Weight Training,20,Female,68.9,Weight Gain,2535
+108,159,42.7,455,Cycling,58,Male,56.3,Weight Loss,1623
+56,166,20.3,351,Jump Rope,58,Male,62.6,Weight Gain,3116
+45,156,18.5,186,Running,76,Female,49.1,Weight Gain,3106
+65,148,29.7,333,Stretching,31,Female,41.9,Weight Loss,1388
+67,181,20.5,423,Jump Rope,29,Female,71.6,Weight Gain,2668
+75,177,23.9,112,Running,71,Female,68,Weight Loss,1321
+78,178,24.6,253,Running,71,Male,73.4,Weight Loss,1548
+80,150,35.6,77,Rowing,75,Male,48.2,Weight Loss,1246
+72,172,24.3,466,Jump Rope,32,Male,68,Weight Loss,1771
+48,193,12.9,348,Light Walking,28,Female,82.4,Weight Gain,2590
+82,156,33.7,219,Weight Training,66,Male,53.6,Weight Loss,1648
+104,170,36,351,Rowing,37,Female,61.7,Weight Loss,1300
+98,157,39.8,70,Hiking,39,Female,50,Weight Loss,1657
+68,194,18.1,428,Stretching,55,Female,83.3,Weight Gain,2559
+61,166,22.1,293,Jump Rope,21,Female,58.1,Maintain Weight,2223
+119,166,43.2,410,Walking,37,Male,62.6,Weight Loss,1714
+76,178,24,457,Jump Rope,57,Male,73.4,Maintain Weight,2037
+74,182,22.3,281,Running,27,Female,72.5,Maintain Weight,1962
+80,197,20.6,367,Jump Rope,50,Male,90.5,Weight Gain,2705
+60,188,17,335,Light Walking,58,Male,82.4,Weight Gain,3483
+82,193,22,451,Jump Rope,80,Male,86.9,Weight Gain,3485
+89,161,34.3,76,Jump Rope,47,Female,53.6,Weight Loss,1673
+70,164,26,361,Stretching,49,Male,60.8,Weight Loss,1444
+64,174,21.1,83,Weight Training,49,Male,69.8,Weight Gain,2767
+104,154,43.9,424,Cycling,43,Male,51.8,Weight Loss,1377
+114,158,45.7,88,Cycling,58,Male,55.4,Weight Loss,1568
+107,144,51.6,79,Walking,36,Female,38.3,Weight Loss,1444
+60,194,15.9,114,Stretching,45,Female,83.3,Weight Gain,2789
+65,148,29.7,150,Stretching,70,Male,46.4,Weight Loss,1242
+79,171,27,129,Pilates,39,Male,67.1,Weight Loss,1648
+52,167,18.6,400,Jump Rope,45,Female,59,Weight Gain,2563
+49,177,15.6,247,Light Walking,22,Female,68,Weight Gain,2733
+97,197,25,117,Pilates,57,Male,90.5,Weight Loss,1728
+111,144,53.5,66,Walking,78,Female,38.3,Weight Loss,1597
+67,144,32.3,403,Jump Rope,78,Male,42.8,Weight Loss,1329
+54,199,13.6,361,Stretching,23,Female,87.8,Weight Gain,3331
+104,141,52.3,171,Yoga,54,Male,40.1,Weight Loss,1789
+106,178,33.5,239,Weight Training,64,Female,68.9,Weight Loss,1483
+78,164,29,74,Swimming,41,Male,60.8,Weight Loss,1474
+110,192,29.8,89,Stretching,38,Male,86,Weight Loss,1690
+118,181,36,438,Dancing,69,Male,76.1,Weight Loss,1729
+93,159,36.8,145,Rowing,35,Male,56.3,Weight Loss,1490
+77,165,28.3,230,Pilates,23,Female,57.2,Weight Loss,1460
+59,190,16.3,255,Stretching,56,Female,79.7,Weight Gain,2606
+45,159,17.8,395,Yoga,78,Male,56.3,Weight Gain,3335
+119,159,47.1,183,Walking,44,Male,56.3,Weight Loss,1635
+84,192,22.8,286,Jump Rope,66,Female,81.5,Maintain Weight,2178
+63,184,18.6,461,Weight Training,53,Male,78.8,Weight Gain,3062
+112,171,38.3,415,Dancing,36,Female,62.6,Weight Loss,1685
+95,194,25.2,360,Stretching,67,Female,83.3,Weight Loss,1466
+102,180,31.5,106,CrossFit,32,Male,75.2,Weight Loss,1206
+95,170,32.9,443,CrossFit,60,Male,66.2,Weight Loss,1480
+106,165,38.9,196,Hiking,67,Male,61.7,Weight Loss,1487
+74,176,23.9,306,Jump Rope,62,Female,67.1,Weight Loss,1800
+49,184,14.5,430,Light Walking,69,Male,78.8,Weight Gain,3363
+98,200,24.5,152,Running,56,Male,93.2,Weight Loss,1605
+109,199,27.5,197,Pilates,52,Male,92.3,Weight Loss,1746
+59,155,24.6,164,Jump Rope,54,Male,52.7,Weight Loss,1762
+99,170,34.3,318,Jump Rope,59,Male,66.2,Weight Loss,1795
+100,163,37.6,94,Dancing,33,Male,59.9,Weight Loss,1650
+58,144,28,300,Swimming,24,Female,38.3,Weight Loss,1342
+94,142,46.6,74,Walking,53,Female,36.5,Weight Loss,1221
+106,180,32.7,420,Jump Rope,46,Female,70.7,Weight Loss,1468
+109,180,33.6,145,CrossFit,18,Female,70.7,Weight Loss,1747
+105,140,53.6,268,Walking,43,Female,34.7,Weight Loss,1397
+102,163,38.4,264,Hiking,60,Male,59.9,Weight Loss,1257
+51,155,21.2,140,Weight Training,46,Male,52.7,Maintain Weight,2360
+94,176,30.3,441,CrossFit,69,Female,67.1,Weight Loss,1636
+86,168,30.5,157,CrossFit,63,Female,59.9,Weight Loss,1361
+114,169,39.9,184,Cycling,38,Female,60.8,Weight Loss,1507
+97,184,28.7,135,Pilates,22,Female,74.3,Weight Loss,1215
+114,152,49.3,79,Cycling,76,Male,50,Weight Loss,1372
+116,143,56.7,101,Cycling,40,Female,37.4,Weight Loss,1693
+66,187,18.9,142,Weight Training,31,Female,77,Weight Gain,2537
+54,187,15.4,461,Light Walking,43,Male,81.5,Weight Gain,2897
+49,189,13.7,346,Stretching,36,Male,83.3,Weight Gain,2813
+73,162,27.8,433,Swimming,49,Male,59,Weight Loss,1494
+103,175,33.6,424,Jump Rope,72,Female,66.2,Weight Loss,1436
+50,150,22.2,133,Running,37,Female,43.7,Weight Loss,1485
+120,176,38.7,495,Dancing,38,Female,67.1,Weight Loss,1629
+82,175,26.8,126,Stretching,51,Female,66.2,Weight Loss,1460
+101,162,38.5,391,Hiking,39,Male,59,Weight Loss,1368
+82,180,25.3,276,Stretching,37,Female,70.7,Weight Loss,1546
+69,179,21.5,184,Weight Training,63,Male,74.3,Weight Gain,2509
+103,159,40.7,488,Walking,58,Male,56.3,Weight Loss,1469
+120,169,42,200,Yoga,29,Male,65.3,Weight Loss,1547
+88,146,41.3,421,Walking,30,Female,40.1,Weight Loss,1687
+72,164,26.8,61,Swimming,79,Female,56.3,Weight Loss,1688
+90,158,36.1,301,Hiking,38,Female,50.9,Weight Loss,1528
+110,200,27.5,392,Swimming,46,Female,88.7,Weight Loss,1735
+70,149,31.5,266,Jump Rope,50,Male,47.3,Weight Loss,1341
+50,192,13.6,413,Stretching,40,Female,81.5,Weight Gain,2767
+88,177,28.1,145,Stretching,36,Male,72.5,Weight Loss,1397
+59,152,25.5,343,Swimming,79,Female,45.5,Weight Loss,1334
+78,196,20.3,354,Jump Rope,59,Male,89.6,Weight Gain,3161
+107,155,44.5,432,Cycling,36,Male,52.7,Weight Loss,1593
+66,150,29.3,278,Swimming,76,Female,43.7,Weight Loss,1684
+82,168,29.1,367,Stretching,60,Male,64.4,Weight Loss,1211
+72,167,25.8,339,Stretching,52,Female,59,Weight Loss,1602
+70,180,21.6,89,Running,26,Female,70.7,Maintain Weight,1822
+73,145,34.7,474,CrossFit,19,Male,43.7,Weight Loss,1204
+68,161,26.2,470,Stretching,22,Male,58.1,Weight Loss,1526
+84,176,27.1,413,Stretching,25,Male,71.6,Weight Loss,1505
+57,158,22.8,441,Running,77,Female,50.9,Weight Loss,1530
+45,167,16.1,398,Light Walking,44,Female,59,Weight Gain,3017
+61,141,30.7,446,Weight Training,34,Female,35.6,Weight Loss,1458
+80,179,25,157,Pilates,48,Male,74.3,Weight Loss,1435
+58,164,21.6,475,Jump Rope,72,Female,56.3,Maintain Weight,2044
+89,197,22.9,134,Weight Training,72,Female,86,Maintain Weight,2452
+54,147,25,98,Pilates,29,Male,45.5,Weight Loss,1762
+56,145,26.6,288,Stretching,62,Male,43.7,Weight Loss,1615
+70,168,24.8,109,Weight Training,25,Male,64.4,Weight Loss,1415
+62,141,31.2,437,Jump Rope,72,Male,40.1,Weight Loss,1621
+110,183,32.8,276,CrossFit,23,Female,73.4,Weight Loss,1441
+61,199,15.4,209,Yoga,26,Male,92.3,Weight Gain,3331
+89,174,29.4,406,Swimming,58,Female,65.3,Weight Loss,1452
+88,179,27.5,459,Swimming,55,Male,74.3,Weight Loss,1223
+45,168,15.9,433,Stretching,42,Male,64.4,Weight Gain,2852
+109,196,28.4,495,Swimming,36,Female,85.1,Weight Loss,1753
+98,200,24.5,148,Jump Rope,18,Male,93.2,Weight Loss,1279
+73,177,23.3,500,Running,19,Male,72.5,Maintain Weight,2393
+116,190,32.1,354,CrossFit,46,Male,84.2,Weight Loss,1467
+116,155,48.3,404,Walking,75,Female,48.2,Weight Loss,1372
+105,176,33.9,354,Weight Training,68,Male,71.6,Weight Loss,1504
+67,192,18.2,221,Light Walking,47,Male,86,Weight Gain,3438
+55,178,17.4,271,Light Walking,77,Male,73.4,Weight Gain,2754
+67,200,16.8,157,Stretching,74,Female,88.7,Weight Gain,3173
+86,146,40.3,474,Walking,41,Male,44.6,Weight Loss,1308
+60,180,18.5,496,Jump Rope,70,Female,70.7,Weight Gain,3173
+55,193,14.8,364,Yoga,22,Male,86.9,Weight Gain,2560
+70,191,19.2,136,Running,63,Male,85.1,Weight Gain,2737
+104,189,29.1,58,Swimming,70,Female,78.8,Weight Loss,1605
+109,149,49.1,343,Yoga,34,Female,42.8,Weight Loss,1709
+98,154,41.3,475,Cycling,74,Male,51.8,Weight Loss,1581
+50,171,17.1,450,Stretching,32,Male,67.1,Weight Gain,3464
+108,183,32.2,150,Jump Rope,40,Female,73.4,Weight Loss,1712
+92,200,23,423,Running,52,Female,88.7,Weight Loss,1661
+67,170,23.2,313,Weight Training,64,Female,61.7,Weight Loss,1713
+59,141,29.7,323,Pilates,19,Male,40.1,Weight Loss,1480
+118,198,30.1,492,CrossFit,46,Male,91.4,Weight Loss,1447
+120,146,56.3,233,Yoga,59,Male,44.6,Weight Loss,1373
+110,191,30.2,478,Weight Training,27,Female,80.6,Weight Loss,1498
+115,140,58.7,394,Walking,72,Male,39.2,Weight Loss,1698
+76,188,21.5,127,Weight Training,76,Female,77.9,Maintain Weight,2378
+120,189,33.6,265,CrossFit,26,Male,83.3,Weight Loss,1255
+120,157,48.7,72,Cycling,74,Female,50,Weight Loss,1680
+57,170,19.7,454,Jump Rope,35,Female,61.7,Weight Gain,3117
+75,148,34.2,471,Jump Rope,51,Female,41.9,Weight Loss,1267
+60,186,17.3,394,Stretching,79,Male,80.6,Weight Gain,2627
+52,175,17,128,Yoga,57,Female,66.2,Weight Gain,2911
+53,154,22.3,290,Weight Training,57,Female,47.3,Weight Loss,1792
+111,161,42.8,113,Walking,64,Female,53.6,Weight Loss,1487
+90,151,39.5,319,Hiking,56,Male,49.1,Weight Loss,1633
+108,143,52.8,402,Walking,57,Female,37.4,Weight Loss,1607
+50,163,18.8,346,Weight Training,79,Female,55.4,Weight Gain,3396
+112,174,37,317,Hiking,38,Female,65.3,Weight Loss,1356
+51,177,16.3,435,Stretching,59,Male,72.5,Weight Gain,2771
+106,173,35.4,489,Hiking,76,Male,68.9,Weight Loss,1597
+86,175,28.1,403,Swimming,41,Male,70.7,Weight Loss,1312
+86,189,24.1,424,Jump Rope,35,Male,83.3,Maintain Weight,2375
+95,165,34.9,291,Cycling,22,Male,61.7,Weight Loss,1571
+120,191,32.9,122,Jump Rope,73,Female,80.6,Weight Loss,1528
+89,156,36.6,475,Hiking,57,Male,53.6,Weight Loss,1775
+109,181,33.3,211,Jump Rope,68,Male,76.1,Weight Loss,1319
+93,192,25.2,319,Stretching,65,Female,81.5,Weight Loss,1309
+56,144,27,55,Stretching,50,Female,38.3,Weight Loss,1237
+50,200,12.5,300,Stretching,38,Male,93.2,Weight Gain,3243
+119,199,30,350,Weight Training,66,Male,92.3,Weight Loss,1680
+85,142,42.2,123,Yoga,78,Male,41,Weight Loss,1469
+66,153,28.2,95,Pilates,32,Female,46.4,Weight Loss,1457
+102,163,38.4,150,Rowing,52,Male,59.9,Weight Loss,1670
+71,196,18.5,332,Weight Training,48,Male,89.6,Weight Gain,3334
+84,186,24.3,113,Running,19,Female,76.1,Weight Loss,1777
+107,155,44.5,387,Walking,74,Male,52.7,Weight Loss,1615
+49,152,21.2,401,Running,51,Female,45.5,Weight Loss,1488
+71,162,27.1,299,Stretching,46,Female,54.5,Weight Loss,1792
+110,140,56.1,397,Yoga,36,Female,34.7,Weight Loss,1660
+93,154,39.2,251,Rowing,63,Female,47.3,Weight Loss,1334
+60,179,18.7,130,Running,34,Female,69.8,Weight Gain,3084
+93,191,25.5,164,Stretching,64,Female,80.6,Weight Loss,1343
+88,143,43,445,Walking,38,Female,37.4,Weight Loss,1292
+118,162,45,177,Cycling,23,Female,54.5,Weight Loss,1350
+76,169,26.6,465,Stretching,29,Male,65.3,Weight Loss,1757
+89,165,32.7,194,Jump Rope,25,Male,61.7,Weight Loss,1704
+111,143,54.3,248,Walking,66,Female,37.4,Weight Loss,1702
+77,166,27.9,331,Stretching,67,Male,62.6,Weight Loss,1419
+115,141,57.8,95,Cycling,60,Male,40.1,Weight Loss,1524
+108,153,46.1,85,Yoga,69,Male,50.9,Weight Loss,1338
+65,157,26.4,251,Stretching,79,Female,50,Weight Loss,1379
+110,199,27.8,174,Stretching,39,Male,92.3,Weight Loss,1249
+81,161,31.2,78,Jump Rope,73,Male,58.1,Weight Loss,1322
+61,198,15.6,271,Light Walking,32,Female,86.9,Weight Gain,3179
+58,141,29.2,426,Swimming,69,Female,35.6,Weight Loss,1759
+106,165,38.9,65,Rowing,70,Female,57.2,Weight Loss,1475
